@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+Daisy
+</head>
+
+<img src="daisy.JPG" width="400" height="450" alt="Mars"> <img src="juno.JPG" width="400" height="450" alt="Juno">
+  </body>
+
+<body>
+
+<p>Daisyy is a 7 year old Rottweiler who has loads of energy and is an extremely vocal puppy. </p>
+
+</body>
+
+
+<a href="pageone.html" target="_blank">Home Page</a>
+
+</html>

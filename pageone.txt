@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="style.css" />
+<title>Activity 2 Bryson Cash</title>
+
+<img src="me.JPG" width="400" height="450" alt="Mars"> <img src="juno.JPG" width="400" height="450" alt="Juno">
+  </body>
+
+</head>
+
+<body>
+
+<p>Bryson is a second year student at the University of Nebraka at Omaha. He is an MIS major and has taken various technical classes 
+throughout his 3 semesters there. He is currently employed by Union Pacific as an intern in their tecch build faucility in 
+Coincil Bluffs where he sets up computers for new hires and refurbishes old machines. </p>
+
+</body>
+
+link to the next page
+
+<a href="url">Meet Daisy</a>
+
+</html>
+
